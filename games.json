@@ -1,18 +1,1 @@
-{
-  "versions": [
-    {
-      "id": "v1.0",
-      "name": "정식 출시 버전 1.0",
-      "folderName": "ver_1.0",
-      "downloadUrl": "https://github.com/User/Repo/releases/download/v1.0/Game_v1.zip",
-      "executable": "MyGame.exe"
-    },
-    {
-      "id": "v1.1",
-      "name": "업데이트 1.1 (Beta)",
-      "folderName": "ver_1.1",
-      "downloadUrl": "https://github.com/User/Repo/releases/download/v1.1/Game_v1.1.zip",
-      "executable": "MyGame.exe"
-    }
-  ]
-}
+{ "versions": [] }
