@@ -1,9 +1,9 @@
 {
   "versions": [
     {
-      "Name": "1.0!!",
-      "Folder": "v1.0",
-      "Url": "https://github.com/user-attachments/files/24476836/Game_v1.zip",
+      "Name": "1.0.0",
+      "Folder": "v1.0.0",
+      "Url": "https://github.com/fluorine1001/Shot-Shift/releases/download/v1.0.0/Shot.Shift_v1.0.0.zip",
       "Exe": "Game.exe"
     }
   ]
