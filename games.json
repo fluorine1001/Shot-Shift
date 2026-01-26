@@ -1,33 +1,9 @@
 {
   "versions": [
     {
-      "Name": "1.1.0",
-      "Folder": "v1.1.0",
-      "Url": "https://github.com/fluorine1001/Shot-Shift/releases/download/v1.1.0/ShotAndShift_v1.1.0.zip",
-      "Exe": "Shot & Shift.exe"
-    },
-    {
-      "Name": "1.0.3",
-      "Folder": "v1.0.3",
-      "Url": "https://github.com/fluorine1001/Shot-Shift/releases/download/v1.0.3/ShotAndShift_v1.0.3.zip",
-      "Exe": "Shot & Shift.exe"
-    },
-    {
-      "Name": "1.0.2",
-      "Folder": "v1.0.2",
-      "Url": "https://github.com/fluorine1001/Shot-Shift/releases/download/v1.0.2/ShotAndShift_v1.0.2.zip",
-      "Exe": "Shot & Shift.exe"
-    },
-    {
-      "Name": "1.0.1",
-      "Folder": "v1.0.1",
-      "Url": "https://github.com/fluorine1001/Shot-Shift/releases/download/v1.0.1/ShotAndShift_v1.0.1.zip",
-      "Exe": "Shot & Shift.exe"
-    },
-    {
-      "Name": "1.0.0",
-      "Folder": "v1.0.0",
-      "Url": "https://github.com/fluorine1001/Shot-Shift/releases/download/v1.0.0/Shot.Shift_v1.0.0.zip",
+      "Name": "1.2.0",
+      "Folder": "v1.2.0",
+      "Url": "https://github.com/fluorine1001/Shot-Shift/releases/download/v1.2.0/ShotAndShift_v1.2.0.zip",
       "Exe": "Shot & Shift.exe"
     }
   ]
